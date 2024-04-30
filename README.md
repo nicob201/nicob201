@@ -7,10 +7,15 @@ Enhancing my skills in Node.js to build dynamic and interactive web applications
 💼 My Experience:
 
 JavaScript: Proficient in both vanilla JavaScript and modern ES6+ syntax.
+
 Node.js: Experienced in building scalable and efficient server-side applications.
+
 Express: Skilled in creating robust APIs and web servers with Express framework.
+
 Database: Familiar with SQL (MySQL) and NoSQL (MongoDB) databases.
+
 Git & Version Control: Comfortable with Git for version control and collaborative development.
+
 
 🌱 What I'm Learning:
 
@@ -24,4 +29,5 @@ LinkedIn: [Nicolas's LinkedIn](https://www.linkedin.com/in/nicolas-boscasso/)
 📫 How to Reach Me:
 
 Email: nicolasboscasso@gmail.com
+
 Feel free to drop me a message! Whether it's a question, a project idea, or just to say hello, I'm always eager to connect.
