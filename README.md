@@ -27,7 +27,3 @@ Full-stack developer building with the MERN stack — leaning more on **Supabase
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nicolas-boscasso.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-boscasso/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolasboscasso@gmail.com)
-
-## GitHub Stats
-
-![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicob201&show_icons=true&theme=default&hide_border=true)
