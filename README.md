@@ -16,7 +16,7 @@ Full-stack developer building with the MERN stack — leaning more on **Supabase
 
 ## Featured Projects
 
-**[Docuauto](https://www.docuauto.com)** *(private)* — SaaS for vehicle fleet maintenance management: vehicles, maintenance logs, expenses, documents, and verified public reports. Built with Next.js 16, React 19, Supabase, and MercadoPago.
+**[Docuauto](https://github.com/nicob201/docuauto-case-study)** *(private)* — SaaS for vehicle fleet maintenance management: vehicles, maintenance logs, expenses, documents, and verified public reports. Built with Next.js 16, React 19, Supabase, and MercadoPago.
 
 **[Twitter Clone](https://github.com/nicob201/twitter-clone)** — Full-stack X/Twitter clone (React, Express, TypeScript, PostgreSQL, Prisma) with auth, timeline, likes, follows, and image uploads. Built AI-assisted — earned a certification for AI-driven development on this project.
 
