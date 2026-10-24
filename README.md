@@ -18,6 +18,8 @@ Full-stack developer building with the MERN stack — leaning more on **Supabase
 
 **[Docuauto](https://github.com/nicob201/docuauto-case-study)** *(private)* — SaaS for vehicle fleet maintenance management: vehicles, maintenance logs, expenses, documents, and verified public reports. Built with Next.js 16, React 19, Supabase, and MercadoPago.
 
+**[WP Updater](https://github.com/nicob201/wp-updater-free)** — Free tool that keeps any number of WordPress sites updated over SSH + WP-CLI from a local web page, with a verified database backup before each site and nothing installed on the sites. Built with Node.js, Bash, and Docker. [Live demo](https://wp-updater-free-site.vercel.app).
+
 **[Twitter Clone](https://github.com/nicob201/twitter-clone)** — Full-stack X/Twitter clone (React, Express, TypeScript, PostgreSQL, Prisma) with auth, timeline, likes, follows, and image uploads. Built AI-assisted — earned a certification for AI-driven development on this project.
 
 **[E-Commerce API](https://github.com/nicob201/backend_API_ecommerce)** — REST API (Node.js, Express, MongoDB) with OAuth, Stripe payments, real-time chat via Socket.IO, and Swagger docs.
